@@ -1,7 +1,6 @@
-div {background-image:<img src="images/DSC_7835.jpg">;
+body {{background-image:<img src="images/DSC_7835.jpg">;
     background-size: 720px 500px;
-    }
-body {color: #000000; 
+    color: #000000; 
 	text-align: center;
 }
 h1{color: #000000; text-align: center;}
