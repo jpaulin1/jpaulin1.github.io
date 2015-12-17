@@ -2,9 +2,10 @@ body {
   text-align: center;
   background: url("http://i.imgur.com/lJ6Abrq.jpg");
   background-size: cover;
-  color: #000;
+  color: gold;
   font-family: Helvetica;
 }
+h1
 hr {
   width: 200px;
 }
